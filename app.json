@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AplicativoMovel",
+    "slug": "AplicativoMovel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
